@@ -7,6 +7,15 @@
   </tr>
 </table>
 
+### Quantitative Investment & Portfolio Management Engine
+
+<table>
+  <tr>
+    <td width="33%"><img width="1838" height="951" alt="invest" src="https://github.com/user-attachments/assets/89527523-1a73-4295-9f1e-941138cb142f" /></td>
+
+  </tr>
+</table>
+
 ### BIOMETRIC NUTRITION ENGINE USING PYTHON
 <table>
   <tr>

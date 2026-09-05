@@ -1,5 +1,6 @@
 ![Private Repo](https://img.shields.io/badge/Repository-Private-red?style=flat-square&logo=github)
 ![IP Protected](https://img.shields.io/badge/Intellectual_Property-Protected-blue?style=flat-square)
+> All projects showcase proprietary software, algorithms, or client work. Source code is kept in private repositories due to IP protection and NDA agreements. Screenshots, architecture breakdown, and UI metrics are provided to demonstrate core technical implementations.
 
 ### CLIMATE RESCUE | 1ST PLACE HACKATHON WINNER
 

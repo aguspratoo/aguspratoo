@@ -38,7 +38,7 @@
   </tr>
 </table>
 
-### MATLAB DATA ANALYSIS FOR COMPARING TWO FORMULA STUDENT DRIVERS AT FSG
+### DATA ANALYSIS FOR COMPARING TWO FORMULA STUDENT DRIVERS AT FSG
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-### BIOMETRIC NUTRITION CALCULATOR USING PYTHON
+### BIOMETRIC NUTRITION CALCULATOR
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red.svg)
@@ -75,7 +75,7 @@
 </table>
 
 
-### KALMAN FILTER FOR LATERAL VELOCITY FOR A FORMULA STUDENT CAR USING C++ (FOR CARS USING ONLY IMU)
+### KALMAN FILTER FOR LATERAL VELOCITY FOR A FORMULA STUDENT CAR
 
 ![C++](https://img.shields.io/badge/C++-17%2F20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-Noetic%20%2F%20Humble-22314E?style=flat-square&logo=ros&logoColor=white)

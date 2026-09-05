@@ -2,9 +2,9 @@
 
 <table>
   <tr>
-    <td width="40%"><img width="819" height="887" alt="engihack_1" src="https://github.com/user-attachments/assets/3b9c760f-68c9-4cea-9e1a-37f98419dd44" /></td>
-    <td width="40%"><img width="819" height="887" alt="engihack_2" src="https://github.com/user-attachments/assets/8fcded14-5f66-4c1d-a142-cc8c12ab2f00" /></td>
-    <td width="40%"><img width="819" height="887" alt="engihack_3" src="https://github.com/user-attachments/assets/c47cdec2-3661-43e0-992a-648f303d600e" /></td>
+    <td width="35%"><img width="819" height="887" alt="engihack_1" src="https://github.com/user-attachments/assets/3b9c760f-68c9-4cea-9e1a-37f98419dd44" /></td>
+    <td width="35%"><img width="819" height="887" alt="engihack_2" src="https://github.com/user-attachments/assets/8fcded14-5f66-4c1d-a142-cc8c12ab2f00" /></td>
+    <td width="35%"><img width="819" height="887" alt="engihack_3" src="https://github.com/user-attachments/assets/c47cdec2-3661-43e0-992a-648f303d600e" /></td>
   </tr>
 </table>
 

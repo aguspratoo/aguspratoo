@@ -59,6 +59,6 @@
 
 <table>
   <tr>
-    <td width="50%"><img width="894" height="934" alt="picture1" src="https://github.com/user-attachments/assets/09a0163f-bf91-4006-b7bb-6dffb86cb7e6" /></td>
+    <td width="33%"><img width="894" height="934" alt="picture1" src="https://github.com/user-attachments/assets/09a0163f-bf91-4006-b7bb-6dffb86cb7e6" /></td>
   </tr>
 </table>

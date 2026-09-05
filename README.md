@@ -2,9 +2,8 @@
 
 <table>
   <tr>
-    <td width="33%"><img src="https://github.com/user-attachments/assets/c73e9d91-0f8c-4260-b92f-e8c3b9493908" alt="lap_time_comparison"/></td>
-    <td width="33%"><img src="https://github.com/user-attachments/assets/7312dbbd-1a62-48c3-b119-0e4fc4fb43b7" alt="pace_comparison"/></td>
-    <td width="33%"><img src="https://github.com/user-attachments/assets/cf7ab652-3d64-44a2-b69f-f2b8ec494007" alt="tyre_strategy"/></td>
+    <td width="33%"><img width="1854" height="961" alt="f1" src="https://github.com/user-attachments/assets/a40025a3-f0be-4e61-b97a-91c3f6f39be4" /></td>
+
   </tr>
 </table>
 

@@ -77,6 +77,9 @@
 
 ### KALMAN FILTER FOR LATERAL VELOCITY FOR A FORMULA STUDENT CAR USING C++ (FOR CARS USING ONLY IMU)
 
+![C++](https://img.shields.io/badge/C++-17%2F20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-Noetic%20%2F%20Humble-22314E?style=flat-square&logo=ros&logoColor=white)
+
 <table>
   <tr>
     <td width="50%"><img src="https://github.com/user-attachments/assets/a9e65f94-beb6-4b9b-8733-8752754000ac" alt="reference_vs_target"/></td>
@@ -111,6 +114,8 @@
 
 
 ### VEHICLE PHYSICS SIMULATOR FOR DIFFERENT MODELS INCLUDING POINT MASS, BICYCLE AND DUAL TRACK
+
+![C++](https://img.shields.io/badge/C++-17%2F20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 <table>
   <tr>

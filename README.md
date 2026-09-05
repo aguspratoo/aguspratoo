@@ -1,3 +1,6 @@
+![Private Repo](https://img.shields.io/badge/Repository-Private-red?style=flat-square&logo=github)
+![IP Protected](https://img.shields.io/badge/Intellectual_Property-Protected-blue?style=flat-square)
+
 ### CLIMATE RESCUE | 1ST PLACE HACKATHON WINNER
 
 <table>

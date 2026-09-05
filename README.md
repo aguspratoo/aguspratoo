@@ -63,6 +63,10 @@
 </table>
 
 ### BIOMETRIC NUTRITION CALCULATOR USING PYTHON
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red.svg)
+
 <table>
   <tr>
     <td width="33%"><img width="1838" height="951" alt="biom" src="https://github.com/user-attachments/assets/cbe68483-cac6-4be0-9798-cbf22cd54a92" /></td>
@@ -82,6 +86,9 @@
 
 ### TANK BATTLES RECREATION 
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Pygame](https://img.shields.io/badge/Pygame-2.6+-3775A9?style=flat-square&logo=python&logoColor=white)
+
 <table>
   <tr>
     <td width="50%"><img width="900" height="905" alt="tank_battles" src="https://github.com/user-attachments/assets/6b0c4e7c-6c0d-4735-8b2a-1a15a2535aae" /></td>
@@ -90,6 +97,10 @@
 
 
 ### SPACE INVADERS RECREATION 
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Pygame](https://img.shields.io/badge/Pygame-2.6+-3775A9?style=flat-square&logo=python&logoColor=white)
+
 <table>
   <tr>
     <td width="33%"><img width="1802" height="1007" alt="Screenshot from 2026-09-05 13-15-59" src="https://github.com/user-attachments/assets/cfc0ce66-df34-4461-93d2-27ecb35d2558" />

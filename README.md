@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-### SPACE INVADERS RECREATION
+### SPACE INVADERS RECREATION ON PYGAME
 <table>
   <tr>
     <td width="33%"><img width="1802" height="1007" alt="Screenshot from 2026-09-05 13-15-59" src="https://github.com/user-attachments/assets/cfc0ce66-df34-4461-93d2-27ecb35d2558" />

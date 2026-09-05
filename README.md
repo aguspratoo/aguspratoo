@@ -27,6 +27,16 @@
   </tr>
 </table>
 
+### MATLAB DATA ANALYSIS FOR COMPARING TWO FORMULA STUDENT DRIVERS
+
+<table>
+  <tr>
+    <td width="33%"><img width="1843" height="864" alt="formula_student_matlab" src="https://github.com/user-attachments/assets/1a3bc114-983a-4977-80da-be882eb5908f" />
+</td>
+
+  </tr>
+</table>
+
 ### BIOMETRIC NUTRITION ENGINE USING PYTHON
 <table>
   <tr>

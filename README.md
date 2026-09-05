@@ -40,6 +40,8 @@
 
 ### MATLAB DATA ANALYSIS FOR COMPARING TWO FORMULA STUDENT DRIVERS AT FSG
 
+![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
 <table>
   <tr>
     <td width="33%"><img width="1843" height="864" alt="formula_student_matlab" src="https://github.com/user-attachments/assets/1a3bc114-983a-4977-80da-be882eb5908f" />

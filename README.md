@@ -8,8 +8,13 @@
 </table>
 
 ### BIOMETRIC NUTRITION ENGINE USING PYTHON
+<table>
+  <tr>
+    <td width="33%"><img width="1838" height="951" alt="biom" src="https://github.com/user-attachments/assets/cbe68483-cac6-4be0-9798-cbf22cd54a92" /></td>
 
-<img width="600" alt="nutrition" src="https://github.com/user-attachments/assets/f6374ac5-eddb-426d-863a-041440fba023" />
+  </tr>
+</table>
+
 
 ### KALMAN FILTER FOR LATERAL VELOCITY FOR A FORMULA STUDENT CAR USING C++ (FOR CARS USING ONLY IMU)
 

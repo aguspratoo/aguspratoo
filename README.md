@@ -52,6 +52,9 @@
 
 ### BCN DIGITAL CHALLENGE | 3RD PLACE 
 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Supported-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 <table>
   <tr>
     <td width="33%"><img width="1827" height="963" alt="cuulkids" src="https://github.com/user-attachments/assets/174b6e4c-5708-462f-95b7-f1819ed77e3d" /></td>

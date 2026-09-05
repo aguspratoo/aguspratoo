@@ -37,6 +37,15 @@
   </tr>
 </table>
 
+### BCN DIGITAL CHALLENGE | 3RD PLACE 
+
+<table>
+  <tr>
+    <td width="33%"><img width="1827" height="963" alt="cuulkids" src="https://github.com/user-attachments/assets/174b6e4c-5708-462f-95b7-f1819ed77e3d" /></td>
+
+  </tr>
+</table>
+
 ### BIOMETRIC NUTRITION CALCULATOR USING PYTHON
 <table>
   <tr>

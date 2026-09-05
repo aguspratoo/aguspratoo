@@ -64,7 +64,16 @@
   </tr>
 </table>
 
-### SPACE INVADERS RECREATION ON PYGAME
+### TANK BATTLES RECREATION 
+
+<table>
+  <tr>
+    <td width="50%"><img width="900" height="905" alt="tank_battles" src="https://github.com/user-attachments/assets/6b0c4e7c-6c0d-4735-8b2a-1a15a2535aae" /></td>
+  </tr>
+</table>
+
+
+### SPACE INVADERS RECREATION 
 <table>
   <tr>
     <td width="33%"><img width="1802" height="1007" alt="Screenshot from 2026-09-05 13-15-59" src="https://github.com/user-attachments/assets/cfc0ce66-df34-4461-93d2-27ecb35d2558" />

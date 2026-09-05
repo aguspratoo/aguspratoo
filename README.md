@@ -13,7 +13,10 @@
 </table>
 
 
-### TELEMETRY APP INTERFACE FOR FORMULA 1 DATA COMPARISON USING PYTHON
+### TELEMETRY APP INTERFACE FOR FORMULA 1 DATA COMPARISON 
+
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 
 <table>
   <tr>

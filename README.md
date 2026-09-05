@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-### Quantitative Investment & Portfolio Management Engine
+### Quantitative Investment & Portfolio Management 
 
 <table>
   <tr>
@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-### BIOMETRIC NUTRITION ENGINE USING PYTHON
+### BIOMETRIC NUTRITION CALCULATOR USING PYTHON
 <table>
   <tr>
     <td width="33%"><img width="1838" height="951" alt="biom" src="https://github.com/user-attachments/assets/cbe68483-cac6-4be0-9798-cbf22cd54a92" /></td>

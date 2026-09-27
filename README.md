@@ -62,6 +62,17 @@
   </tr>
 </table>
 
+### DATA ANALYSIS TEMPLATE ON PYTHON 
+
+
+
+<table>
+  <tr>
+    <td width="33%"><img width="1851" height="963" alt="Screenshot from 2026-09-27 16-42-00" src="https://github.com/user-attachments/assets/84ccadd1-22f1-4a9a-bd51-3e643fd8d60e" />/td>
+
+  </tr>
+</table>
+
 ### BIOMETRIC NUTRITION CALCULATOR
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)

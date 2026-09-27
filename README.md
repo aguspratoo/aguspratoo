@@ -64,7 +64,7 @@
 
 ### DATA ANALYSIS TEMPLATE ON PYTHON 
 
-
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 
 <table>
   <tr>

@@ -1,11 +1,22 @@
 ![Private Repo](https://img.shields.io/badge/Repository-Private-red?style=flat-square&logo=github)
 ![IP Protected](https://img.shields.io/badge/Intellectual_Property-Protected-blue?style=flat-square)
 > All projects showcase proprietary software, algorithms, or client work. Source code is kept in private repositories due to IP protection and NDA agreements. Screenshots, architecture breakdown, and UI metrics are provided to demonstrate core technical implementations.
-### FORMULA 1 Race Stint Tyre Model Degradation with fuel consumption weight on different compounds
-
-
+### FORMULA 1 Race Strategy windows for overcut / undercut / keep position on pitstops 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) \
-### Model to compare tyre degradation of clean laps with the fuel consumption correction to compare teammates and rivals on a single FORMULA 1 race.
+Model to detect when a chosen driver is able to undercut / overcut / keep position with respect to a chosen second driver in a single FORMULA 1 race.
+<table>
+  <tr>
+    <td width="33%"><img width="1920" height="993" alt="race_strategy" src="https://github.com/user-attachments/assets/622228ad-df42-4eba-a241-a7048b3d7191" />
+
+</td>
+
+  </tr>
+</table>
+
+
+### FORMULA 1 Race Stint Tyre Model Degradation with fuel consumption weight on different compounds
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) \
+Model to compare tyre degradation of clean laps with the fuel consumption correction to compare teammates and rivals on a single FORMULA 1 race.
 <table>
   <tr>
     <td width="33%"><img width="1920" height="993" alt="Figure_1" src="https://github.com/user-attachments/assets/0c396b2c-e541-460e-bddb-10dbd720f72d" />

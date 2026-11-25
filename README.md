@@ -5,7 +5,7 @@
 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) \
-Model to compare tyre degradation of clean laps with the fuel consumption correction to compare teammates and rivals on a single FORMULA 1 race.
+### Model to compare tyre degradation of clean laps with the fuel consumption correction to compare teammates and rivals on a single FORMULA 1 race.
 <table>
   <tr>
     <td width="33%"><img width="1920" height="993" alt="Figure_1" src="https://github.com/user-attachments/assets/0c396b2c-e541-460e-bddb-10dbd720f72d" />

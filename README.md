@@ -4,7 +4,7 @@
 ### FORMULA 1 Race Stint Tyre Model Degradation with fuel consumption weight on different compounds
 
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) \
 Model to compare tyre degradation of clean laps with the fuel consumption correction to compare teammates and rivals on a single race.
 <table>
   <tr>

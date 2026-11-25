@@ -5,7 +5,7 @@
 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-
+Model to compare tyre degradation of clean laps with the fuel consumption correction to compare teammates and rivals on a single race.
 <table>
   <tr>
     <td width="33%"><img width="1920" height="993" alt="Figure_1" src="https://github.com/user-attachments/assets/0c396b2c-e541-460e-bddb-10dbd720f72d" />
@@ -22,6 +22,18 @@
 <table>
   <tr>
     <td width="33%"><img width="1854" height="961" alt="f1" src="https://github.com/user-attachments/assets/a40025a3-f0be-4e61-b97a-91c3f6f39be4" /></td>
+
+  </tr>
+</table>
+
+### DATA ANALYSIS FOR COMPARING TWO FORMULA STUDENT DRIVERS AT FSG
+
+![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+<table>
+  <tr>
+    <td width="33%"><img width="1843" height="864" alt="formula_student_matlab" src="https://github.com/user-attachments/assets/1a3bc114-983a-4977-80da-be882eb5908f" />
+</td>
 
   </tr>
 </table>
@@ -49,17 +61,6 @@
   </tr>
 </table>
 
-### DATA ANALYSIS FOR COMPARING TWO FORMULA STUDENT DRIVERS AT FSG
-
-![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-<table>
-  <tr>
-    <td width="33%"><img width="1843" height="864" alt="formula_student_matlab" src="https://github.com/user-attachments/assets/1a3bc114-983a-4977-80da-be882eb5908f" />
-</td>
-
-  </tr>
-</table>
 
 ### BCN DIGITAL CHALLENGE | 3RD PLACE 
 

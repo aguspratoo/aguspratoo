@@ -1,7 +1,7 @@
 ![Private Repo](https://img.shields.io/badge/Repository-Private-red?style=flat-square&logo=github)
 ![IP Protected](https://img.shields.io/badge/Intellectual_Property-Protected-blue?style=flat-square)
 > All projects showcase proprietary software, algorithms, or client work. Source code is kept in private repositories due to IP protection and NDA agreements. Screenshots, architecture breakdown, and UI metrics are provided to demonstrate core technical implementations.
-### FORMULA 1 Race Strategy windows model for overcut / undercut / keep position on pitstops 
+### FORMULA 1 Race Strategy Windows Model for overcut / undercut / keep position on pitstops 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) \
 Model to detect when a chosen driver is able to undercut / overcut / keep position with respect to a chosen second driver in a single FORMULA 1 race.
 <table>

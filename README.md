@@ -121,6 +121,7 @@ Investment portfolio and price calculator to compare the current price of differ
   </tr>
 </table>
 Barcelona Digital Challenge Hackathon 3rd place awarded project. Website developped on html to connect pop up stores and events with users all around the world. Made to give visibility to those small enterpreneurs who are seeking for an opportunity to gain exposure and visibility.
+
 ### DATA ANALYSIS TEMPLATE ON PYTHON 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)

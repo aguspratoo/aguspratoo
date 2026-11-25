@@ -56,6 +56,13 @@ Compares relative tyre degradation between teammates and rivals on the same tyre
   </tr>
 </table>
 
+**Objective**
+Interactive telemetry analysis tool built to compare single-lap or stint performance between two drivers across key vehicle channels.
+
+**Signal Processing & Key Channels**
+- **Distance-Based Alignment:** Synchronizes telemetry traces by lap distance rather than elapsed time to enable corner-by-corner overlay.
+- **Multi-Channel Diagnostics:** Cross-references speed, throttle, brake application, gear shifts, RPM, and cumulative time delta to isolate braking, apex, and traction differences.
+
 ### DATA ANALYSIS FOR COMPARING TWO FORMULA STUDENT DRIVERS AT FSG
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-0076A8?style=flat-square&logo=mathworks&logoColor=white)
@@ -68,6 +75,13 @@ Compares relative tyre degradation between teammates and rivals on the same tyre
   </tr>
 </table>
 
+**Objective**
+Post-session telemetry workflow developed to compare driving inputs and vehicle response between two drivers running the same car configuration at FSG.
+
+**Methodology & Engineering Metrics**
+- **Lap-Distance Synchronization:** Aligns anonymized on-track sensor logs by track distance to evaluate consistency and cornering behavior.
+- **Vehicle & Driver Metrics:** Analyzes speed traces, throttle/brake modulation, steering input, and lateral/longitudinal accelerations to identify time-loss zones, refine driver feedback, and guide setup adjustments
+- 
 ### CLIMATE RESCUE | 1ST PLACE HACKATHON WINNER
 
 <table>

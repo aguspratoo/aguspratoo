@@ -91,7 +91,10 @@ Post-session telemetry workflow developed to compare driving inputs and vehicle 
     <td width="33%"><img width="819" height="887" alt="engihack_3" src="https://github.com/user-attachments/assets/c47cdec2-3661-43e0-992a-648f303d600e" /></td>
   </tr>
 </table>
+Winning project at Barcelona Engihack Hackathon 2025. New alert system for the Spanish population for national emergencies. \
 
+The project consists in an interactive interface that appears on every phone near the incident zone at the same time and lets the user choose to describe its current situation regarding
+the emergency.
 ### Quantitative Investment & Portfolio Management 
 
 
@@ -104,7 +107,7 @@ Post-session telemetry workflow developed to compare driving inputs and vehicle 
 
   </tr>
 </table>
-
+Investment portfolio and price calculator to compare the current price of different stocks. Actualized in real time using Yahoo Finance support and developped on python streamlit with an integrated database to manage multiple users at the same time. Currently still in developpment to include new features.
 
 ### BCN DIGITAL CHALLENGE | 3RD PLACE 
 

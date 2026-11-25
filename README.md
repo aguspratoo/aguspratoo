@@ -36,6 +36,14 @@ Model to compare tyre degradation of clean laps with the fuel consumption correc
   </tr>
 </table>
 
+**Objective**
+Compares relative tyre degradation between teammates and rivals on the same tyre compound during a single Formula 1 race using clean-air laps and fuel-mass correction.
+
+**Methodology & Data Filtering**
+- **Clean-Lap Filtering:** Excludes opening-lap laps, pit-out laps, and laps affected by traffic or pit-stop disturbances so pace trends are not skewed by external events.
+- **Fuel-Mass Correction:** Applies an estimated fuel-burn lap time sensitivity factor to remove the lap-time gain from decreasing car mass, isolating true tyre wear.
+- **Same-Compound Comparison & Degradation Slope:** Tracks active compounds across stints and compares drivers running the same compound over overlapping stint windows. A steeper positive degradation slope (higher lap-time loss per lap after fuel correction) indicates faster tyre degradation.
+
 ### TELEMETRY APP INTERFACE FOR FORMULA 1 DATA COMPARISON 
 
 

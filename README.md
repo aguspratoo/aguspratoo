@@ -13,11 +13,17 @@ Model to detect when a chosen driver is able to undercut / overcut / keep positi
   </tr>
 </table>
 
-This model tries to estimate the operating windows to perform overtaking strategies simulating the view of a strategy engineer. To achieve this the model uses the lap time of each driver and a fuel consumption correction parameter to isolate tyre degradation from fuel consumption lap time gain. \
-An overtaking window can be presented as an undercut ,where it is assumed if the driver has no tyre wear(due to recently pitting) how many laps it would take him to reach the car ahead. Pit stop times are neglected as it is assumed that both car end up pitting the same amount of time (for simplification). 
+**Objective**
+Estimates strategic pit stop windows by modeling race pace evolution from a race strategy engineer's perspective.
 
-\
-When maintining position, it is computed the pit time loss based on the average of other pitstops in the race discarding those wrong due to errors, and if the driver has a greater gap to the car behind than the pit loss time, a pit window while keeping position opens.
+**Methodology & Modeling Assumptions**
+- **Fuel-Corrected Pace & Tyre Degradation:** Raw lap times are adjusted using a linear fuel-burn lap time sensitivity parameter to isolate true tyre degradation per compound.
+- **Undercut / Overcut Window:** Evaluates the pace delta between fresh-tyre out-lap pace and degraded-tyre pace to determine the number of laps required to offset the rival's track position advantage. As a first-order simplification, stationary pit stop times are assumed symmetric between both cars.
+- **Position-Retention Window:** Computes expected pit lane time loss from the race distribution of pit stops (filtering out outlier stops caused by mechanical issues or penalties). A safe pit window opens whenever the gap to the trailing car exceeds the estimated pit loss.
+
+**Known Limitations**
+- Assumes clean air on the out-lap (no traffic or blue-flag penalties) and instantaneous tyre warm-up.
+- Does not account for stochastic interruptions (SC/VSC).
 
 ### FORMULA 1 Race Stint Tyre Model Degradation with fuel consumption weight on different compounds
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) \

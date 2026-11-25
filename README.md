@@ -1,17 +1,18 @@
 ![Private Repo](https://img.shields.io/badge/Repository-Private-red?style=flat-square&logo=github)
 ![IP Protected](https://img.shields.io/badge/Intellectual_Property-Protected-blue?style=flat-square)
 > All projects showcase proprietary software, algorithms, or client work. Source code is kept in private repositories due to IP protection and NDA agreements. Screenshots, architecture breakdown, and UI metrics are provided to demonstrate core technical implementations.
+### FORMULA 1 Race Stint Tyre Degradation with fuel consumption weight on different compounds
 
-### CLIMATE RESCUE | 1ST PLACE HACKATHON WINNER
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 
 <table>
   <tr>
-    <td width="33%"><img width="819" height="887" alt="engihack_1" src="https://github.com/user-attachments/assets/3b9c760f-68c9-4cea-9e1a-37f98419dd44" /></td>
-    <td width="33%"><img width="819" height="887" alt="engihack_2" src="https://github.com/user-attachments/assets/8fcded14-5f66-4c1d-a142-cc8c12ab2f00" /></td>
-    <td width="33%"><img width="819" height="887" alt="engihack_3" src="https://github.com/user-attachments/assets/c47cdec2-3661-43e0-992a-648f303d600e" /></td>
+    <td width="33%"><img width="1920" height="993" alt="Figure_1" src="https://github.com/user-attachments/assets/0c396b2c-e541-460e-bddb-10dbd720f72d" />
+</td>
+
   </tr>
 </table>
-
 
 ### TELEMETRY APP INTERFACE FOR FORMULA 1 DATA COMPARISON 
 
@@ -22,6 +23,16 @@
   <tr>
     <td width="33%"><img width="1854" height="961" alt="f1" src="https://github.com/user-attachments/assets/a40025a3-f0be-4e61-b97a-91c3f6f39be4" /></td>
 
+  </tr>
+</table>
+
+### CLIMATE RESCUE | 1ST PLACE HACKATHON WINNER
+
+<table>
+  <tr>
+    <td width="33%"><img width="819" height="887" alt="engihack_1" src="https://github.com/user-attachments/assets/3b9c760f-68c9-4cea-9e1a-37f98419dd44" /></td>
+    <td width="33%"><img width="819" height="887" alt="engihack_2" src="https://github.com/user-attachments/assets/8fcded14-5f66-4c1d-a142-cc8c12ab2f00" /></td>
+    <td width="33%"><img width="819" height="887" alt="engihack_3" src="https://github.com/user-attachments/assets/c47cdec2-3661-43e0-992a-648f303d600e" /></td>
   </tr>
 </table>
 
